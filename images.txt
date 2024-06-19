@@ -116,4 +116,3 @@ registry.cn-beijing.aliyuncs.com/kubesphereio/k8s-dns-node-cache:1.15.12
 bitnami/mongodb:4.2.4-debian-10-r0
 busybox:1.28
 mirrorgooglecontainers/defaultbackend-amd64:1.4
-prom/mysqld-exporter:v0.10.0
