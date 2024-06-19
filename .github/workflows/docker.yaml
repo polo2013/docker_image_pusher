@@ -50,6 +50,8 @@ jobs:
           echo "docker push $new_image"
           docker push $new_image
           echo "docker pushed $new_image"
-          echo "docker rmi $new_image"
-          docker rmi $new_image
+          echo "docker system prune --all"
+          docker system prune --all
+          echo "docker builder prune"
+          docker builder prune
         done < images.txt
