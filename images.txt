@@ -20,7 +20,7 @@ calico/pod2daemon-flexvol:v3.23.2
 registry.cn-beijing.aliyuncs.com/kubesphereio/pod2daemon-flexvol:v3.23.2
 registry.cn-beijing.aliyuncs.com/kubesphereio/node:v3.23.2
 calico/node:v3.23.2
-kubesphere/fluent-bit:v1.8.11
+
 prom/node-exporter:v1.3.1
 coredns/coredns:1.8.6
 registry.cn-beijing.aliyuncs.com/kubesphereio/coredns:1.8.6
