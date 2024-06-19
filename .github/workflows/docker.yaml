@@ -51,7 +51,7 @@ jobs:
           docker push $new_image
           echo "docker pushed $new_image"
           echo "docker system prune --all"
-          docker system prune --all
+          echo "y" | docker system prune --all
           echo "docker builder prune"
-          docker builder prune
+          echo "y" | docker builder prune
         done < images.txt
