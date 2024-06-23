@@ -1,1 +1,2 @@
 itsthenetwork/nfs-server-alpine
+openresty/openresty:1.21.4.3-3-alpine-fat
