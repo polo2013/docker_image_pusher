@@ -1,1 +1,1 @@
-bats/bats
+bitnami/minideb:buster
