@@ -1,1 +1,2 @@
-bitnami/minideb:buster
+redis:4.0.12-alpine
+styletang/rocketmq-console-ng
