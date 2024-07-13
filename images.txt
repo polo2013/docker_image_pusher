@@ -1,3 +1,3 @@
-amazon/opendistro-for-elasticsearch:1.13.3
+amazon/opendistro-for-elasticsearch:0.9.0
 leviocil/logstash-oss:6.7.1
-amazon/opendistro-for-elasticsearch-kibana:1.13.2
+amazon/opendistro-for-elasticsearch-kibana:0.9.0
