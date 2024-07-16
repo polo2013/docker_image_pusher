@@ -1,3 +1,4 @@
-amazon/opendistro-for-elasticsearch:0.9.0
-leviocil/logstash-oss:6.7.1
-amazon/opendistro-for-elasticsearch-kibana:0.9.0
+docker.io/bitnami/grafana:10.4.2-debian-12-r6
+docker.io/bitnami/alertmanager:0.27.0-debian-12-r10
+docker.io/bitnami/prometheus:2.52.0-debian-12-r2
+docker.io/bitnami/thanos:0.35.0-debian-12-r4
