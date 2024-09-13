@@ -1,1 +1,1 @@
-ghcr.io/huggingface/text-generation-inference:latest
+nginx:1.15.8-alpine
