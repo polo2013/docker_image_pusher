@@ -1,3 +1,1 @@
-docker.io/bitnami/mysql:8.4.3-debian-12-r4
-docker.io/bitnami/os-shell:12-debian-12-r33
-docker.io/bitnami/mysqld-exporter:0.16.0-debian-12-r2
+eclipse-temurin:21-jre-ubi9-minimal
