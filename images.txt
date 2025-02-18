@@ -1,1 +1,2 @@
-eclipse-temurin:21-jre-ubi9-minimal
+python3.9
+python3.10
