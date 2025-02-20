@@ -1,2 +1,1 @@
-python:3.9
-python:3.10
+eclipse-temurin:8-jdk-ubi9-minimal
