@@ -1,1 +1,1 @@
-eclipse-temurin:8-jdk-ubi9-minimal
+eclipse-temurin:17-jdk-ubi9-minimal
