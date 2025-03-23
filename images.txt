@@ -1,1 +1,1 @@
-docker.io/mochat/mochat:v1
+node:14.17.3
