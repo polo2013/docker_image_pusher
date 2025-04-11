@@ -1,2 +1,2 @@
-ollama/ollama:latest
-ghcr.io/open-webui/open-webui:main
+python:3.11-slim-bookworm
+node:22-alpine3.20
