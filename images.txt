@@ -1,2 +1,1 @@
-python:3.11-slim-bookworm
-node:22-alpine3.20
+ghcr.io/open-webui/open-webui:v0.6.7
