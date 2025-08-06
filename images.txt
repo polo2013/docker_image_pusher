@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:v0.6.7
+registry.cn-beijing.aliyuncs.com/kubesphereio/haproxy:2.3
