@@ -1,1 +1,1 @@
-python:3.13
+sonatype/nexus:2.11.2-06
