@@ -1,1 +1,1 @@
-nvidia/cuda:12.4-base-ubuntu22.04
+nvidia/cuda:12.9.1-base-ubuntu22.04
