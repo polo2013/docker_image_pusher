@@ -1,10 +1,1 @@
-postgres:15-alpine
-redis:7.2.11-alpine
-apache/kvrocks:2.12.1
-cvat/server:dev
-cvat/ui:dev
-traefik:v3.6
-openpolicyagent/opa:0.63.0
-clickhouse/clickhouse-server:23.11-alpine
-timberio/vector:0.26.0-alpine
-grafana/grafana-oss:10.1.2
+nvidia/cuda:12.4-base-ubuntu22.04
