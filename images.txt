@@ -1,2 +1,1 @@
-node:20-alpine
-nginx:alpine
+python:3.10-slim-bookworm
